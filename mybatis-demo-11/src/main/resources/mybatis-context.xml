@@ -21,7 +21,7 @@
 		<!-- SQL映射文件地址 -->
 		
 		<mappers>
-			<mapper resource="com/shsxt/mappper/UserMapper.xml"/> <!-- 文件的路径 -->
+			<mapper resource="com/shsxt/mapper/UserMapper.xml"/> <!-- 文件的路径 -->
 		</mappers>
 		
 </configuration>

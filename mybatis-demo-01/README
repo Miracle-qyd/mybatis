@@ -80,7 +80,7 @@ Bean:
 		
 	
 	第五步：
-		添加SQL映射文件
+		添加SQL映射文件{/com/shsxt/mappper/UserMapper.xml}
 		
 		 <?xml version="1.0" encoding="UTF-8" ?>
 			<!DOCTYPE mapper

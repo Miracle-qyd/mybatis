@@ -1,0 +1,13 @@
+/.settings/
+.project
+
+mybatis-demo-01/.settings/
+mybatis-demo-01/.project
+mybatis-demo-01/.classpath
+mybatis-demo-01/target/
+
+mybatis-demo-11/.settings/
+mybatis-demo-11/.project
+mybatis-demo-11/.classpath
+mybatis-demo-11/target/
+
